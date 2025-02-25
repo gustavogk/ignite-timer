@@ -15,8 +15,9 @@ export const HistoryContainer = styled.main`
 
 export const HistoryList = styled.div`
   flex: 1;
-  overflow: auto;
+  overflow: auto; /* Permite a rolagem caso o conteúdo ultrapasse */
   margin-top: 2rem;
+  max-height: 400px; /* Define uma altura máxima para o histórico */
 
   table {
     width: 100%;
@@ -30,6 +31,9 @@ export const HistoryList = styled.div`
       color: ${(props) => props.theme["gray-100"]};
       font-size: 0.875rem;
       line-height: 1.6;
+      position: sticky;
+      top: 0;
+      z-index: 2; /* Mantém o cabeçalho visível durante a rolagem */
 
       &:first-child {
         border-top-left-radius: 8px;
