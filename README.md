@@ -38,6 +38,7 @@ This project was made using the follow technologies:
 * [Typescript](https://www.typescriptlang.org/)      
 * [React](https://reactjs.org/)      
 * [Vite](https://vite.dev/guide/)
+* [Styled-components](https://styled-components.com/docs)
 
 # :camera: Screenshots
   
