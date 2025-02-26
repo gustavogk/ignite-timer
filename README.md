@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./.github/img1.png" width="720"/> 
+</p>
+
 <p align="center">	
    <a href="https://www.linkedin.com/in/gustavo-gk/">
       <img alt="GustavoAssunção" src="https://img.shields.io/badge/-GustavoAssunção-5965e0?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -35,6 +39,13 @@ This project was made using the follow technologies:
 * [React](https://reactjs.org/)      
 * [NextJS](https://nextjs.org/)
 
+# :camera: Screenshots
+  
+<div align="center">
+   <img src="./.github/img1.png" width="1200"/> 
+   <img src="./.github/img2.png" width="1200"/> 
+   <img src="./.github/img3.png" width="1200"/> 
+</div>
 
 # :bug: Issues
 
