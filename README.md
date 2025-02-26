@@ -27,7 +27,8 @@
   
 # 📌 Contents
 
-* [Technologies](#rocket-technologies) 
+* [Technologies](#rocket-technologies)
+* [How to Run](#computer-how-to-run)
 * [Screenshots](#camera-screenshots)
 * [Issues](#bug-issues)
 * [Contributing](#sparkles-contributing)
@@ -40,6 +41,23 @@ This project was made using the follow technologies:
 * [React](https://reactjs.org/)      
 * [Vite](https://vite.dev/guide/)
 * [Styled-components](https://styled-components.com/docs)
+
+# :computer: How to run
+
+```bash
+# Clone Repository
+$ git clone https://github.com/gustavogk/ignite-timer.git
+```
+
+```bash
+# Install Dependencies
+$ npm install
+
+# Run Aplication
+$ npm run dev
+```
+Go to http://localhost:3000/ to see the result.
+
 
 # :camera: Screenshots
   
